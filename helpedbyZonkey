@@ -1,0 +1,262 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("Xploits-Hub V1.2", "Ocean")
+
+local Main = Window:NewTab("Hub *dev*")
+local MainSection = Main:NewSection("GetYourHub!")
+
+MainSection:NewButton("Gh0$tHub", "Hub", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Ghost-hub-15223"))()
+end)
+
+MainSection:NewButton("Multi Scripter-X", "Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Multi-Scripter-X/main/loader"))()
+end)
+
+MainSection:NewButton("Hxcker 666 *OP*", "Hub", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/FreeRobloxScripts1/Haxker_6666666-Hub/main/loader'))()
+end)
+
+MainSection:NewButton("Sc4iptHubz *600+*", "Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/SCRIPTHUBV3/main/SCRIPTHUBV3", true))()
+end)
+
+MainSection:NewButton("G-Hub *OP*", "Hub", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/TAXwL2at"))()
+end)
+
+MainSection:NewButton("EquinoxHub", "Hub", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/wzB1Qh78'),true))()
+end)
+
+MainSection:NewButton("Auratusx", "Key:Auratusx", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/U40qtHfh'))()
+end)
+
+MainSection:NewButton("KaovHub", "Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Koryxha/Kaov/main/KaovHub.md"))()
+end)
+
+MainSection:NewButton("Gabx-Hub *OP*", "Hub", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/FTf9uem2", true))();
+end)
+
+local SecondSection = Main:NewSection("GetYourHub2!")
+
+SecondSection:NewButton("GigaChadzHub", "Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/OWJBWKQLAISH/GigaChad-Hub/main/Protected_3038811338432694.lua.txt"))()
+end)
+
+SecondSection:NewButton("Holf-Hub *OP*", "Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/Universal"))()
+end)
+
+SecondSection:NewButton("BidoSkinz *AwesomeHub!*", "Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20Skins%20V1.9"))()
+end)
+
+SecondSection:NewButton("VsckHub *OP*", "Hub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/VcskV/main/Hub/main.lua", true))()
+end)
+
+SecondSection:NewButton("System-Hub *OP*", "Hub", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-System-hub-V2-13161"))()
+end)
+
+local Noob = Window:NewTab("GameHub *dev*")
+local NoobSection = Noob:NewSection("MM2")
+
+NoobSection:NewButton("Vynixu's Mm2 *OP*", "GameHub", function()
+    loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
+end)
+
+NoobSection:NewButton("Juanko MM2 *SIMPLE*", "GameHub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Juanko-Scripts/Roblox-scripts/main/Juanko%20Murder%20MM2"))()
+end)
+
+NoobSection:NewButton("SR- Mm2 *OP*", "GameHub", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/pcallskeleton/CE-Technologies/main/script', true))()
+end)
+
+NoobSection:NewButton("NexusHub Mm2 *OP*", "GameHub", function()
+    loadstring(game:HttpGet("https://egorikusa.space/edb1b919d1ee740df14d280a.lua", true))()
+end)
+
+local DaSection = Noob:NewSection("Dahood")
+
+DaSection:NewButton("Tbo-Hub", "GameHub", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/cool5013/TBO/main/TBOscript'))()
+end)
+
+local RedSection = Noob:NewSection("WorksForSomeGames!")
+
+RedSection:NewButton("Redz Ghost", "GameHub", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/WFKSRG6m'))();
+end)
+
+local PrisonSection = Noob:NewSection("PrisonLife-Scriptz")
+
+PrisonSection:NewButton("Tbao-Hub$", "GameHub", function()
+    Tbao:loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaohubPrisonLife"))()
+end)
+
+PrisonSection:NewButton("Prison-Admin", "GameHub", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/VPrNqGKU", true))()
+end)
+
+local Sui = Window:NewTab("FE-Tab")
+local SuiSection = Sui:NewSection("FE-IsTheWorst")
+
+SuiSection:NewButton("GenesisScriptLoader", "Eend2", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EEND2SCRIPTS/Genesis-FE-Loader-Mine-/main/Genesis%20FE%20Loader%20Mine"))()
+end)
+
+local SuiSection = Sui:NewSection("I cant find no FE scripts")
+local SuiSection = Sui:NewSection("This tab is completed")
+local SuiSection = Sui:NewSection("Note: You can recommend scripts in the comments")
+
+local Sui = Window:NewTab("Gui-Tab")
+local SuiSection = Sui:NewSection("GeuitYourGuisHere!")
+
+SuiSection:NewButton("MelonGuiHub", "GuiScript", function()
+    loadstring(game:HttpGet("https://pastefy.app/mw6rEGWU/raw"))()
+end)
+
+SuiSection:NewButton("C00lKidd *CLIENT*", "GuiScript", function()
+    loadstring(game:GetObjects("rbxassetid://8127297852")[1].Source)()
+end)
+
+
+SuiSection:NewButton("1x1x1x1 *CLIENT*", "GuiScript", function()
+    loadstring(game:HttpGet("https://pastefy.app/veI2qr7m/raw"))()
+end)
+
+local SuiSection = Sui:NewSection("No More Gui Will Be Added")
+
+
+local Kavo = Window:NewTab("Script *dev*")
+local KavoSection = Kavo:NewSection("GetHere!")
+
+KavoSection:NewButton("M-keyboard", "UsedScript", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GGH52lan/GGH52lan/main/keyboard.txt"))()
+end)
+
+KavoSection:NewButton("CrackedDeltaKeyboard", "UsedScript", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt", true))()
+end)
+
+KavoSection:NewButton("Fly-V3", "UsedScript", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+end)
+
+KavoSection:NewButton("Speed&Jp-Changer", "UsedScript", function()
+    loadstring(game:HttpGet("https://pastefy.app/Tc2DgNpI/raw"))()
+end)
+
+KavoSection:NewButton("Infinite-Jump", "UsedScript", function()
+    loadstring(game:HttpGet("https://pastefy.app/OpWdjPha/raw"))()
+end)
+
+KavoSection:NewButton("Lightux-esp", "UsedScript", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/cool83birdcarfly02six/UNIVERSALESPLTX/main/README.md', true))()
+end)
+
+KavoSection:NewButton("Arceus-Aimbot", "UsedScript", function()
+    loadstring(game:HttpGet("https://pastefy.app/2yJPba9Q/raw"))()
+end)
+
+KavoSection:NewButton("Noclip-Script", "UsedScript", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/B5xRxTnk", true))() 
+end)
+
+KavoSection:NewButton("TpTool *USEFUL*", "UsedScript", function()
+    loadstring(game:HttpGet("https://pastefy.app/380ZhbdK/raw"))() 
+end)
+
+local SecSection = Kavo:NewSection("Script-2")
+
+SecSection:NewButton("Admin-Chat", "UsedScript", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/game-hax/uca/main/release/uca.min.lua"))() 
+end)
+
+SecSection:NewButton("Animation-Hub", "UsedScript", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Animation-Hub/main/Animation Gui", true))() 
+end)
+
+SecSection:NewButton("Permanent-ShiftLock", "UsedScript", function()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Baseplate-Universal-Script-Permanent-Shift-Lock-6924"))()
+end)
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "ScreenGui"
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ResetOnSpawn = false
+
+local Toggle = Instance.new("TextButton")
+Toggle.Name = "Toggle"
+Toggle.Parent = ScreenGui
+Toggle.BackgroundColor3 = Color3.fromRGB(0, 0, 255)
+Toggle.Position = UDim2.new(0, 0, 0.454706937, 0)
+Toggle.Size = UDim2.new(0, 90, 0, 38)
+Toggle.Font = Enum.Font.SourceSans
+Toggle.Text = "Toggle"
+Toggle.TextColor3 = Color3.fromRGB(255, 255, 255)
+Toggle.TextSize = 28.000
+Toggle.Draggable = true
+Toggle.MouseButton1Click:Connect(function()
+    Library:ToggleUI()
+end)
+
+local Ad = Window:NewTab("Admin-Hub")
+local AdSection = Ad:NewSection("GetYourPowersHere!")
+
+AdSection:NewButton("InfiniteYield", "AdminScript", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+AdSection:NewButton("InfiniteYieldReborn", "AdminScript", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/fuckusfm/infiniteyield-reborn/master/source'))()
+end)
+
+AdSection:NewButton("NamelessAdmin", "AdminScript", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))()
+end)
+
+local Client = Window:NewTab("Client-Tab")
+local ClientSection = Client:NewSection("Why-Even-Use?")
+
+ClientSection:NewButton("M4A1", "Client", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/PNnAfDmd"))()
+end)
+
+ClientSection:NewButton("Hacker 2", "Client", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/FWbG0NwV"))()
+end)
+
+
+ClientSection:NewButton("Sonic Runner", "Client", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/9unqDgjQ"))()
+end)
+
+ClientSection:NewButton("Client 4", "Client", function()
+   loadstring(game:HttpGet("https://pastebin.com/raw/52Z2Br10"))()
+end)
+
+ClientSection:NewButton("Client 5", "Client", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/ku2PFi6f"))()
+end)
+
+ClientSection:NewButton("Client 6", "Client", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/7qNpiSQs"))()
+end)
+
+ClientSection:NewButton("Client 7", "Client", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/cR4yktdr"))()
+end)
+
+ClientSection:NewButton("Client 8", "Client", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/9nu7Zeh8"))()
+end)
+
+ClientSection:NewButton("Client 9", "Client", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/Cfv5Wej4"))()
+end)
